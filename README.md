@@ -20,4 +20,4 @@ Note that in the _personalize_ menu, you need to add an entry for each separate 
 
 
 ## Credits
-Script is based on: [http://nohup.run/gthumb-sending-resized-images-by-email/]
+Script is based on: http://nohup.run/gthumb-sending-resized-images-by-email/
