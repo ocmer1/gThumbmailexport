@@ -10,7 +10,7 @@ Tested on Ubuntu 18.04 with gThumb 3.6.1
 
 ## Use
 In gThumb, go to _tools_ and then _personalize_. Click _new_, give an appropriate name and add the following command:
-`/path/to/sendbyemail.sh -yourflag %F`
+`/path/to/sendbymail.sh -yourflag %F`
 Replace the path with the path where you've stored the script. You can replace _yourflag_ with one of the following:
 * original: Does not resize
 * small: Resizes the longest side of the picture to 800px
