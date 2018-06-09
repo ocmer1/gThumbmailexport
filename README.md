@@ -5,6 +5,7 @@ A shell script to resize and export photos from gThumb by e-mail
 * gThumb
 * ImageMagick
 * Thunderbird
+
 Tested on Ubuntu 18.04 with gThumb 3.6.1
 
 ## Use
